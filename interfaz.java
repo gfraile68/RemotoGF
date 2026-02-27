@@ -5,4 +5,5 @@ interfaz grafico
   segunda modificacion 
 
 	cambios desde local
-nuevos cambios desde local v2.0
+cambios no controlados desde origin
+
