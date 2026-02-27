@@ -3,3 +3,5 @@ interfaz grafico
   segunda nodificacion desde git hub
   modificacion 27/02/26 desde github
   segunda modificacion 
+
+	cambios desde local
