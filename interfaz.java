@@ -5,5 +5,3 @@ interfaz grafico
   segunda modificacion 
 
 	cambios desde local
-cambios no controlados desde origin
-
